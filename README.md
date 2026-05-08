@@ -43,12 +43,6 @@ This is a special Mother's Day website created using Next.js, Tailwind CSS, Fram
 - **Confetti Animation**: A fun confetti effect at the end to celebrate the occasion.
 - **Responsive Design**: The site is fully responsive and works well on mobile and desktop devices.
 
-## Social Media🌐
-
-- Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- YouTube: [@anujbuilds](https://youtube.com/anujbuilds)
-- Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- LinkedIn: [anujchaudhary549](https://linkedin.com/in/anujchaudhary549)
 
 ## Thanks for Checking Out This Project!
 
